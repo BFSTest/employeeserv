@@ -30,7 +30,7 @@ We would like to see you complete the following requirements:
 - Please make sure the validations are done for the requests.
 - Response codes are as per rest guidelines.
 - Error handling in case of failures.
-- Idemponency logic is implemented to avoid duplicate resource creation.
+- Idempotency logic is implemented to avoid duplicate resource creation.
 
 ## Assignment submission
 Thank you very much for your time to take this test. Please zip the complete solution and send it to `bfs-sor-interview@paypal.com`, or upload it in Github and provide us the link.
