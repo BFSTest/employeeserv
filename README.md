@@ -33,4 +33,4 @@ We would like to see you complete the following requirements:
 - Idempotency logic is implemented to avoid duplicate resource creation.
 
 ## Assignment submission
-Thank you very much for your time to take this test. Please zip the complete solution and send it to `bfs-sor-interview@paypal.com`, or upload it in Github and provide us the link.
+Thank you very much for your time to take this test. Please upload this complete solution in Github and send us the link to `bfs-sor-interview@paypal.com`.
