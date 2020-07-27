@@ -20,7 +20,7 @@ There are three modules in this application
 - Use postman or curl to access `http://localhost:8080/v1/bfs/employees/1` GET endpoint. It will return an Employee resource.
 
 ## Assignment
-We would like to see you complete the following requirements:
+We would like you to enhance the existing project and see you complete the following requirements:
 
 - `employee.json` has only `name`, and `id` elements. Please add `date of birth` and `address` elements to the `Employee` resource. Address will have `line1`, optional `line2`, `city`, `state`, `country` and `zip_code` elements.
 - Add one more operation in `EmpoyeeResource` to create an employee. So `EmpoyeeResource` will have two operations, one to create, and another to retrieve the employee resource.
