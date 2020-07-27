@@ -24,11 +24,6 @@
         </dependency>
 
         <dependency>
-            <groupId>com.ebayinc.platform.services</groupId>
-            <artifactId>jaxrs-server-api</artifactId>
-        </dependency>
-
-        <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-annotations</artifactId>
             <scope>provided</scope>
