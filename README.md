@@ -26,12 +26,12 @@ We would like you to enhance the existing project and see you complete the follo
 - Add one more operation in `EmpoyeeResource` to create an employee. So `EmpoyeeResource` will have two operations, one to create, and another to retrieve the employee resource.
 - Implement create, and retrieve operations in `EmployeeResourceImpl.java`.
 - Resource created using create endpoint should be retrieved using retrieve/get endpoint.
+- Please add the necessary tests to validate your implementation.
 - Please use h2 in-memory database or any other in-memory database to persist the `Employee` resource. Dependency for h2 in-memory database is already added to the parent pom.
 - Please make sure the validations are done for the requests.
 - Response codes are as per rest guidelines.
 - Error handling in case of failures.
 - Idempotency logic is implemented to avoid duplicate resource creation.
-- Please add the necessary tests to validate your implementation.
 
 ## Assignment submission
 Thank you very much for your time to take this test. Please upload this complete solution in Github and send us the link to `bfs-sor-interview@paypal.com`.
