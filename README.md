@@ -23,7 +23,7 @@ There are three modules in this application
 We would like you to enhance the existing project and see you complete the following requirements:
 
 - `employee.json` has only `name`, and `id` elements. Please add `date of birth` and `address` elements to the `Employee` resource. Address will have `line1`, optional `line2`, `city`, `state`, `country` and `zip_code` elements.
-- Add one more operation in `EmpoyeeResource` to create an employee. So `EmpoyeeResource` will have two operations, one to create, and another to retrieve the employee resource.
+- Add one more operation in `EmployeeResource` to create an employee. So `EmployeeResource` will have two operations, one to create, and another to retrieve the employee resource.
 - Implement create, and retrieve operations in `EmployeeResourceImpl.java`.
 - Resource created using create endpoint should be retrieved using retrieve/get endpoint.
 - Please add the necessary tests to validate your implementation.
